@@ -42,3 +42,10 @@ img {background-image:url( bosque2.jpeg);
   margin-left: auto;
   margin-right: auto;}
 .allergens {font-size: 10px}
+.content {
+  position: absolute;
+  left: 50%;
+  margin-top: 5rem;
+  transform: translateX(-50%);
+  width: 80%;
+}
