@@ -1,6 +1,6 @@
 h1, h2, h3, p, a {text-align: center}
 hr {height: 1px ; background-color: grey}
-body {padding: 20px ; background-image:url( bosque2.jpeg); font-family: monospace;;}
+body {padding: 20px ; background-image:url( bosque2.jpeg); background-attachment: fixed; font-family: monospace;;}
 .menu {max-width: 500px; padding: 30px; margin-left: auto;margin-right: auto;background-color: beige ;width: 80%}
 .item p {font-size: 14px;display: inline-block;margin-top: 5px; margin-bottom: 5px}
 .flavor{padding-left: 5px;text-align: left; width: 70%}
