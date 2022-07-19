@@ -31,7 +31,14 @@ footer {font-size: 11px}
 a {color: Black}
 a:visited {color: grey}
 a:hover {color white}
-img {display: block;
+img {background-image:url( bosque2.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+  display: block;
   margin-left: auto;
   margin-right: auto;}
 .allergens {font-size: 10px}
